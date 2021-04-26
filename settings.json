@@ -1,0 +1,10 @@
+{
+    "name": "snoi",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/react": true,
+        "/category/nft/core-composable_nft": true,
+        "/category/nft/core-composable_nft/template": "collectible"
+    }
+}
